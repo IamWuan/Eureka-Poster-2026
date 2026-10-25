@@ -1,0 +1,6 @@
+Mã đề tài: VL2026-014
+Lĩnh vực: Vật lý
+Tên đề tài: Mô phỏng vật liệu theo mô hình Fermi-Hubbard bằng thuật toán biến phân lai lượng tử
+Sinh viên thực hiện: Phạm Văn Anh; Hồ Xuân Nhật ; Trần Minh Đức ; Phạm Đăng Quang
+Đơn vị: Trường Đại học Sư phạm, Đại học Đà Nẵng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/VL2026-014
