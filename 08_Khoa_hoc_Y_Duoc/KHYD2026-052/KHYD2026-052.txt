@@ -1,0 +1,6 @@
+Mã đề tài: KHYD2026-052
+Lĩnh vực: Khoa học Y, Dược
+Tên đề tài: UNet Mamba MoE: Advancing Blood Cell Image Segmentation with Hybrid State Space Models
+Sinh viên thực hiện: Nguyễn Hà An; Trần Quang Tiệp; Nguyễn Minh Sơn; Nguyễn Gia Thanh; Lê Minh Quân
+Đơn vị: Trường Quốc tế, ĐHQG Hà Nội
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KHYD2026-052
