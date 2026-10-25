@@ -1,0 +1,6 @@
+Mã đề tài: KTE2026-005
+Lĩnh vực: Kinh tế
+Tên đề tài: Tối ưu hoá đa mục tiêu chi phí, thời gian và phát thải cho định tuyến phương tiện kết hợp lựa chọn kho trung gian trong vận tải chuỗi lạnh bằng thuật toán di truyền lai
+Sinh viên thực hiện: Nguyễn Võ Thùy Trang
+Đơn vị: Đại học Phenikaa
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTE2026-005

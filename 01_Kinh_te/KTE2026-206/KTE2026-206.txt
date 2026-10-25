@@ -1,0 +1,6 @@
+Mã đề tài: KTE2026-206
+Lĩnh vực: Kinh tế
+Tên đề tài: Tối ưu hóa danh mục đầu tư động bằng hybrid deep reinforcement learning bằng chứng thực nghiệm từ thị trường chứng khoán Hoa Kỳ và Việt Nam
+Sinh viên thực hiện: Nguyễn Thiện Hoài; Trương Công Phát; Ngô Quang Hùng
+Đơn vị: Trường Đại học Ngân hàng TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTE2026-206
