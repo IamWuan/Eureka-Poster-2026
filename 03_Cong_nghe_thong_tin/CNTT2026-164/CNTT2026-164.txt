@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-164
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Hệ thống NLP hỗ trợ mã hóa chẩn đoán lâm sàng theo ICD-10 và liên thông bệnh án điện tử theo HL7 FHIR
+Sinh viên thực hiện: Nguyễn Thành Luân; Lê Thanh Khải
+Đơn vị: Trường Đại học Tài nguyên và Môi trường TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-164

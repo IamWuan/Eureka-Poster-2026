@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-096
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Machine Learning for IPv6 Covert-Channel Detection in 5G-Oriented Data Centers
+Sinh viên thực hiện: Lê Duy Khánh; Lê Thanh Hậu; Tô Thanh Tân; Đỗ Manh Quang
+Đơn vị: Trường Cao đẳng Công nghệ Thông tin TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-096

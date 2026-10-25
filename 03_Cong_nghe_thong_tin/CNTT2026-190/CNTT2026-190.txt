@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-190
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: A Multi-Agent Deep Reinforcement Learning Framework with Adaptive Risk-Controlled Meta Allocation: Application to the Vietnamese Stock Market and Cryptocurrencies
+Sinh viên thực hiện: Phạm Trọng Tiến; Nguyễn Trường Vỹ; Trần Quốc Bảo
+Đơn vị: Trường Đại học Quốc Tế, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-190

@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-050
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: AN AUTOMATED MITRE ATT&CK–DRIVEN FRAMEWORK FOR EVALUATING IDS/IPS AND SOC DETECTION CAPABILITIES
+Sinh viên thực hiện: Đỗ Phạm Hoàng Phúc
+Đơn vị: Trường Đại học Gia Định
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-050

@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-008
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Xây dựng ứng dụng học đa ngôn ngữ cá nhân hóa lộ trình sử dụng trí tuệ nhân tạo và trò chơi hóa (Gamification) nhằm thúc đẩy động lực học tập của sinh viên
+Sinh viên thực hiện: Nguyễn Trọng An; Phan Lê Duy
+Đơn vị: Trường Đại học Công nghệ Đồng Nai
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-008

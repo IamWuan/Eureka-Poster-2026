@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-054
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Thiết kế chip dựa trên vi xử lý RISCV đa lõi tích hợp lõi mật mã hoá nhẹ ứng dụng bảo mật thiết bị IoT biên trên công nghệ CMOS 130nm
+Sinh viên thực hiện: Trần Võ Thiên Phúc; Trần Hưng Thời; Hồ Huy Thịnh; Phan Thành Nhân; Đàm Minh Quân
+Đơn vị: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-054

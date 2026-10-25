@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-121
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: ON THE ROBUSTNESS OF LANGUAGE MODEL-BASED RANSOMWARE DETECTORS FOR API SEQUENCE ANALYSIS UNDER SEMANTIC-PRESERVING MUTATIONS
+Sinh viên thực hiện: Võ Đình Kiên; Trần Hồng Lĩnh; Phạm Tấn Lợi
+Đơn vị: Trường Đại học Công nghệ Thông tin, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-121

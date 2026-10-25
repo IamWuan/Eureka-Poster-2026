@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-178
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: NHẬN DIỆN CẢM XÚC SINH VIÊN VÀ ĐÁNH GIÁ MỨC ĐỘ TẬP TRUNG TRONG LỚP HỌC BẰNG VISION TRANSFORMER
+Sinh viên thực hiện: Lê Tuấn Dũng
+Đơn vị: Phân hiệu Trường Đại học Bình Dương tại Cà Mau
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-178

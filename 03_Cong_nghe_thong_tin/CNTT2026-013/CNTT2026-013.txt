@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-013
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Phát triển hệ thống Web - App hỗ trợ tìm việc thông minh cho sinh viên dựa trên học máy và xử lý ngôn ngữ tự nhiên
+Sinh viên thực hiện: Hoàng Ngọc Khang; Tăng Hữu Minh; Lê Minh Tiến; Nguyễn Thanh Tùng
+Đơn vị: Trường Đại học Công Thương TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-013

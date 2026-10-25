@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-206
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: NGHIÊN CỨU PHÁT TRIỂN HỆ THỐNG DEEP LEARNING VÀ PHÂN TÍCH ĐỊA KHÔNG GIAN ĐA NGUỒN TỪ ẢNH RADAR VỆ TINH SENTINEL-1 VÀ DỮ LIỆU AIS CHO GIÁM SÁT VÀ KIỂM TRA TÀU CÁ, PHỤC VỤ PHÒNG, CHỐNG KHAI THÁC IUU
+Sinh viên thực hiện: Nguyễn Thế Hoàng; Lâm Minh Huy; Nguyễn Đỗ Thành Phúc
+Đơn vị: Trường Đại học Bách Khoa, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-206

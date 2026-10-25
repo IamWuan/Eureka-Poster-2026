@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-202
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: DelegateGuard: PURPOSE-BOUND CAPABILITIES FOR DELEGATED LLM AGENT WORKFLOWS
+Sinh viên thực hiện: Võ Hữu Khang; Võ Xuân Hạ
+Đơn vị: Trường Đại học Bách Khoa, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-202

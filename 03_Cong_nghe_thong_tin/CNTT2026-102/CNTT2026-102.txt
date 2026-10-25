@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-102
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Nghiên cứu phân đoạn vùng tán lá cà chua trên ảnh nhiệt bằng mô hình YOLOv8n-seg.
+Sinh viên thực hiện: Phạm Thùy Dung; Kiều Thu Hà; Nguyễn Ngọc Như Quỳnh; Nguyễn Thùy Trang; Phạm Thị Thu Trang
+Đơn vị: Trường Đại học Sư phạm Hà Nội 2
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-102

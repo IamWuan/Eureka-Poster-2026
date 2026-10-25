@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-183
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation
+Sinh viên thực hiện: Trần Tạ Quang Minh
+Đơn vị: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-183

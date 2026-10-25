@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-139
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Xây dựng hệ thống hỏi đáp tự động về quy trình học vụ cho sinh viên Trường Đại học Nha Trang dựa trên ontology và mô hình ngôn ngữ
+Sinh viên thực hiện: Nguyễn Gia Khánh; Vi Phúc Thịnh; Lê Văn Hoà
+Đơn vị: Trường Đại học Nha Trang
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-139

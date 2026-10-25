@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-016
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: XÂY DỰNG HỆ THỐNG HỎI - ĐÁP TỰ ĐỘNG TRÊN VĂN BẢN QUY CHẾ GIÁO DỤC ĐẠI HỌC TIẾNG VIỆT THEO KIẾN TRÚC SINH NỘI DUNG TĂNG CƯỜNG TRUY XUẤT (RETRIEVAL-AUGMENTED GENERATION)
+Sinh viên thực hiện: Nguyễn Chí Đại
+Đơn vị: Phân hiệu Trường Đại học Bình Dương tại Cà Mau
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-016

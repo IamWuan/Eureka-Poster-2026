@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-148
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Nghiên cứu mô hình học sâu dựa trên dữ liệu ước lượng tư thế người để đánh giá hành vi và hỗ trợ sàng lọc sớm rối loạn phổ tự kỉ ở trẻ em
+Sinh viên thực hiện: Phạm Viết Chí Luân; Lê Đặng Văn Thi; Lê Bá Nhân; Trần Lý Nghĩa; Nguyễn Văn Phụng
+Đơn vị: Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn, Đại học Đà Nẵng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-148

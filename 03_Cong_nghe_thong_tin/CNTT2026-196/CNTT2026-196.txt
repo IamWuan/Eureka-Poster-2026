@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-196
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Xây dựng mô hình phát hiện hình ảnh Deepfake sử dụng kiến trúc Efficientnet và kỹ thuật học chuyển giao
+Sinh viên thực hiện: Hoàng Quang Đạt; Giang Thị Thu Hoài; Nguyễn Thị Thúy; Lã Tấn Lộc; Đặng Trường Duy
+Đơn vị: Học viện Ngân hàng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-196

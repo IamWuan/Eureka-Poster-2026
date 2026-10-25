@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-159
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: BiHyPE: Binary-based Hybrid Positional Encoding for Time-series Analysis
+Sinh viên thực hiện: Khưu Trọng Quân
+Đơn vị: Trường Đại học FPT
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-159

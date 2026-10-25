@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-192
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Định vị thời gian cơn động kinh trên điện não đồ da đầu bằng học không giám sát dựa trên Graph Autoencoder và phát hiện điểm thay đổi
+Sinh viên thực hiện: Nguyễn Quốc Trung Nhân
+Đơn vị: Trường Đại học Quốc Tế, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-192

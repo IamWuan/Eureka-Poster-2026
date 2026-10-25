@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-021
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: EXPLORING THE REASONING DEPTH OF SMALL LANGUAGE MODELS IN SOFTWARE ARCHITECTURE: A MULTIDIMENSIONAL EVALUATION FRAMEWORK TOWARDS SOFTWARE ENGINEERING 2.0
+Sinh viên thực hiện: Võ Hữu Khang; Võ Xuân Hạ
+Đơn vị: Trường Đại học Bách Khoa, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-021

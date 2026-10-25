@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-169
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Nghiên cứu phát triển mô hình học sâu lai kết hợp CNN và Mamba cho bài toán phân loại ảnh ung thư vú
+Sinh viên thực hiện: Nguyễn Gia Huy
+Đơn vị: Trường Đại học Công nghệ Kỹ thuật TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-169

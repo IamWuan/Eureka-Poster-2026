@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-022
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Xây dựng mô hình tối ưu hóa lập lịch hoạt động sinh viên dựa trên tổng trọng số bằng thuật toán lai Snake Optimization with Parasitic Mechanism (SOPM) trong hệ thống hỗ trợ sắp xếp sinh hoạt đa mục tiêu
+Sinh viên thực hiện: Nguyễn Thị Mỹ Duyên; Nguyễn Cao Mạnh Hùng; Phan Tuấn Giang
+Đơn vị: Trường Đại học Công Thương TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-022

@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-073
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: ContextGuard-Robot: Ràng buộc quyết định với ngữ cảnh tại thời gian chạy và bảo đảm tính toàn vẹn tại thời điểm cam kết thực thi trong phân công robot (ContextGuard-Robot: Runtime Decision-Context Binding and Commit-Time Integrity Enforcement for Robot Dispatch)
+Sinh viên thực hiện: Lê Ngọc Tân; Nguyễn Đức Long; Hoàng Phương Thảo; Võ Ngọc Minh Đạt
+Đơn vị: Trường Đại học Công nghệ Đồng Nai
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-073

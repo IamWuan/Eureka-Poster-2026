@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-029
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Nghiên cứu và ứng dụng các phương pháp học sâu dựa trên kiến trúc CNN và Transformer để phát triển hệ thống chẩn đoán hình ảnh răng trong nha khoa
+Sinh viên thực hiện: Nguyễn Văn Đúng; Huỳnh Nguyễn Minh Triển; Bùi Hoàng Quân; Phạm Trung Kiên; Nguyễn Công Minh Quân
+Đơn vị: Phân hiệu Trường Đại học Giao thông vận tải tại TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-029

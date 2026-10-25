@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-053
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Hệ thống chụp cắt lớp trở kháng điện 16 điện cực tích hợp trí tuệ nhân tạo nhúng trên STM32H7 để nhận biết số lượng và định vị vật thể theo vùng góc
+Sinh viên thực hiện: Lưu Hữu Phước; Huỳnh Tuấn Kiệt; Trần Minh Cao Nguyên; Huỳnh Tấn Phát; Trương Công Vinh
+Đơn vị: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-053

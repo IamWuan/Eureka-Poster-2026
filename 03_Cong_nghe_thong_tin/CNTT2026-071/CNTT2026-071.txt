@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-071
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: A Concept Drift-Aware Hybrid Active Learning Framework for Network Intrusion Detection
+Sinh viên thực hiện: Nguyễn Phước Anh Dũng
+Đơn vị: Trường Đại học Công nghệ TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-071

@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-086
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Blockchain AI Sentinel: Hệ thống phát hiện gian lận chuỗi khối đa tác nhân với ràng buộc ngữ cảnh thời gian thực
+Sinh viên thực hiện: Lê Ngọc Tân; Quách Khoa Đức; Nguyễn Trung Hơn; Vũ Thị Thanh Hiền; Nguyễn Tấn Tài
+Đơn vị: Trường Đại học Công nghệ Đồng Nai
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-086

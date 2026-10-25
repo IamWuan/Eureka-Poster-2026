@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-097
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Integer values of generating functions for a type of second order linear recurrence sequences
+Sinh viên thực hiện: Nguyễn Duy Nguyên
+Đơn vị: Trường Đại học Sư phạm Hà Nội
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-097

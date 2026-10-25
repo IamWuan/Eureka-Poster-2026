@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-103
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Xây dựng hệ thống hỏi đáp pháp lý đa phương thức tiếng Việt (LegalQA)
+Sinh viên thực hiện: Nguyễn Quang Hà; Lê Thị Hương Ly
+Đơn vị: Trường Đại học CMC
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-103

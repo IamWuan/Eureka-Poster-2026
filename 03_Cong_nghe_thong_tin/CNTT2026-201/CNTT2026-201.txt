@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-201
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Độ ổn định của các mô hình ngôn ngữ lớn (Large Language Models - LLMs) khi thay đổi cách diễn đạt: Nghiên cứu trên bộ câu hỏi thi môn học Kinh doanh và Công nghệ (Business and Technology) trong bối cảnh đào tạo chuyên ngành kế toán tích hợp ACCA
+Sinh viên thực hiện: Nguyễn Thế Hùng; Phạm Thị Hương; Lê Thị Minh Ngọc; Đinh Đức Việt Anh; Lê Thị Hồng Vân
+Đơn vị: Học viện Công nghệ Bưu chính Viễn thông
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-201

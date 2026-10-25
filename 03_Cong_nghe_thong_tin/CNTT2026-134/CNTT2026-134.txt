@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-134
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Rethinking Over-generalization in Reconstruction-based Multi-class Anomaly Detection for Industrial Inspection
+Sinh viên thực hiện: Nguyễn Minh Trí
+Đơn vị: Trường Đại học FPT
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-134

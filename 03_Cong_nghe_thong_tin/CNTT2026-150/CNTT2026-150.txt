@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-150
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: BOOSTED CONTEXT ENGINEERING FOR DATA AGENTS: A HOLISTIC SELF-IMPROVING ARCHITECTURE WITH ADABOOST-INSPIRED CONTEXT UPDATES AND ITS APPLICATION TO ESG ANALYTICS
+Sinh viên thực hiện: Nguyễn Thanh Tâm
+Đơn vị: Đại học Kinh tế TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-150

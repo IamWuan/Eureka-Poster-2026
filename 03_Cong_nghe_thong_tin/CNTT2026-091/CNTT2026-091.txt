@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-091
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Hệ sinh thái Nông nghiệp tuần hoàn khép kín và Truy xuất hành trình chuỗi cung ứng lạnh nông sản ứng dụng Mạng cảm biến Edge-AI (TinyML), Dự báo chuỗi thời gian ARIMA và Trợ lý ảo LLM
+Sinh viên thực hiện: Nguyễn Việt Hải; Nguyễn Quang Vũ; Nguyễn Ngọc Hân; Trần An Kỳ; Nguyễn Thành Phong
+Đơn vị: Trường Đại học Văn Lang
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-091

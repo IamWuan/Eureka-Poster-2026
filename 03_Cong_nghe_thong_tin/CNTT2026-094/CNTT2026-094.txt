@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-094
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: REDUCING FALSE POSITIVES IN DDOS USING TRAFFIC BEHAVIOR ANALYSIS
+Sinh viên thực hiện: Nguyễn Ngọc Yến Thư; Cáp Phạm Thiên Hương; Bùi Trần Quỳnh Hương; Lầu Uyển Nhi
+Đơn vị: Đại học Kinh tế TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-094

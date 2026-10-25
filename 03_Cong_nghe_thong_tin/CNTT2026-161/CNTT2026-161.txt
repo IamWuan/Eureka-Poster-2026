@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-161
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Physics-Guided Underwater Image Restoration via Physical Prior Channel Fusion and U-Net Variants
+Sinh viên thực hiện: Đinh Khắc Nhật Trường; Nguyễn Thái Hưng; Phan Tuấn Hưng; Trương Công Phúc
+Đơn vị: Trường Đại học FPT
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-161

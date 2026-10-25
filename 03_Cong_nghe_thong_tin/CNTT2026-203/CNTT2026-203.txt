@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-203
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: HỆ THỐNG GIÁM SÁT PHÒNG THI THỜI GIAN THỰC BẰNG THỊ GIÁC MÁY TÍNH DỰA TRÊN YOLOv8 VÀ MediaPipe ĐỂ PHÁT HIỆN HÀNH VI CÓ TIỀM NĂNG GIAN LẬN
+Sinh viên thực hiện: Nguyễn Trần Quang; Trần Minh Khôi; Trần Chí Nhân; Phạm Minh Phú; Dương Nghiệp Phát
+Đơn vị: Trường Đại học Bách Khoa, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-203

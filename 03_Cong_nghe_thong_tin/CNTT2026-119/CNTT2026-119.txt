@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-119
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Phát triển kiến trúc học sâu lai cho phân đoạn khối u não trên ảnh MRI đa phương thức với bộ dữ liệu Brats
+Sinh viên thực hiện: Trương Việt Vũ; Nguyễn Phúc Nguyên; Đặng Thị Thu Hằng
+Đơn vị: Trường Đại học Văn Lang
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-119

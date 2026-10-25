@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-153
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Nghiên cứu tối ưu hóa bố trí tua - bin gió sử dụng thuật toán lai ghép FTTA-KOA với cơ chế tìm kiếm cục bộ và học đối lập động
+Sinh viên thực hiện: Trần Đinh Hải Nguyên; Nguyễn Đình Đức
+Đơn vị: Trường Đại học Công Thương TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-153

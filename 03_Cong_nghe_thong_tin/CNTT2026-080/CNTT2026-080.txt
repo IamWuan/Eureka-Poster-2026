@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-080
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Kết hợp song tuyến CNN-Transformer cho phân đoạn ảnh vết nứt
+Sinh viên thực hiện: Bế Lã Anh Thư; Hồ Minh Đăng
+Đơn vị: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-080

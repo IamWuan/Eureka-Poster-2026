@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-061
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: NGHIÊN CỨU, THIẾT KẾ VÀ TÍCH HỢP HỆ THỐNG SOC TĂNG TỐC VÀ GIÁM SÁT QUỸ ĐẠO AN TOÀN THỜI GIAN THỰC TRÊN FPGA CHO XE TỰ HÀNH (VLA-Traj <-> TSM)
+Sinh viên thực hiện: Ngô Đức Anh
+Đơn vị: Trường Đại học Bách Khoa, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-061

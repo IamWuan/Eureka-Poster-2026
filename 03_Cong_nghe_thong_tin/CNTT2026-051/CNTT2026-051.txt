@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-051
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: THIẾT KẾ, HIỆN THỰC VÀ ĐÁNH GIÁ KIẾN TRÚC CỤM EDGE-AI PHÂN TÁN DỊ THỂ NHẰM TỐI ƯU HIỆU SUẤT CHO CÁC TÁC VỤ AI
+Sinh viên thực hiện: Trần An Huy; Trần Quang Huy
+Đơn vị: Trường Đại học Công nghệ Thông tin, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-051

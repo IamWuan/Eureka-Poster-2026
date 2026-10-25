@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-133
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Nghiên cứu kết hợp mô hình hybrid whisper với ViT5 để chuyển đổi giọng nói tiếng việt thành văn bản và phát triển chatbot hỗ trợ học tập dành cho sinh viên
+Sinh viên thực hiện: Phạm Thị Ngọc Oanh; Võ Hồng Thiên; Trần Nhất Long; Trần Đình Võ; Nguyễn Huy Khang
+Đơn vị: Phân hiệu Trường Đại học Giao thông vận tải tại TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-133

@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-090
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Research project title: machine learning for congestion prediction in centralized and distributed 5g data-center deployments
+Sinh viên thực hiện: Huỳnh Trần Quang Khải; Phạm Thanh Danh; Nguyễn Đức Việt
+Đơn vị: Trường Đại học Kinh tế - Tài chính TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-090

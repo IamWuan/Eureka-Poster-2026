@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-131
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Nghiên cứu tích hợp ROS, Navigation Stack và module AI cho hệ thống robot chữa cháy tự hành nhận diện và ứng phó hỏa hoạn
+Sinh viên thực hiện: Đào Tiến Đạt; Đặng Phan Duy; Lê Trần Minh Khôi; Ngô Thành Khôi; Phạm Lê Anh Khoa
+Đơn vị: Phân hiệu Trường Đại học Giao thông vận tải tại TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-131

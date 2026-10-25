@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-063
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Nghiên cứu giải pháp AIot cho phát hiện hư hỏng mặt đường thời gian thực dựa trên hợp nhất dữ liệu đa cảm biến trên phần cứng nhúng hạn chế tài nguyên
+Sinh viên thực hiện: Võ Lê Huy; Trần Phúc Lâm; Nguyễn Ngọc Tới; Trần Thái Thanh Tố
+Đơn vị: Trường Đại học Quy Nhơn
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-063

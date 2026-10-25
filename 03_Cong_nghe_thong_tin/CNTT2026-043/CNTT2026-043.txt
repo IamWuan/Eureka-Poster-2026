@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-043
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Nghiên cứu, xây dựng môi trường giả lập phục vụ phân tích, đánh giá nguy cơ tấn công mạng hướng tới các thành phần lõi trong hạ tầng mạng 5G
+Sinh viên thực hiện: Hoàng Đức Linh
+Đơn vị: Học viện An ninh nhân dân
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-043

@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-208
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Development of an anonymized data-sharing web platform based on K-Anonymity and L-Diversity, optimized by the APO-ARO hybrid algorithm
+Sinh viên thực hiện: Lê Hoàng Minh Nhật; Bạch Ngọc Vy; Phùng Thị Ly
+Đơn vị: Trường Đại học Công Thương TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-208

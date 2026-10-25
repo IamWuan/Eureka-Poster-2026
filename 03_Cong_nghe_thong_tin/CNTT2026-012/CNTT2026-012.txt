@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-012
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Xây dựng mô hình chọn đặc trưng gene tối ưu bằng thuật toán lai Red - billed blue magpie optimizer (RBMO) và Secretary bird optimization algorithm (SBOA) trong hệ thống hỗ trợ chẩn đoán sớm ung thư máu
+Sinh viên thực hiện: Phùng Thị Ly; Lê Hoàng Minh Nhật; Bạch Ngọc Vy
+Đơn vị: Trường Đại học Công Thương TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-012

@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-116
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Phát triển hệ thống đối chiếu điểm tự động dựa trên nghiên cứu và tối ưu hóa mô hình học sâu cho bài toán nhận dạng chữ số viết tay.
+Sinh viên thực hiện: Trần Công Thành; Tạ Hồ Thanh Khương; Hoàng Trà My
+Đơn vị: Trường Đại học Sư phạm, Đại học Đà Nẵng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-116

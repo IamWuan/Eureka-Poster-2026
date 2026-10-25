@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-112
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Phát triển mô hình học sâu ba giai đoạn tích hợp tiếp cận chưng cất tri thức và AI giải thích được cho bài toán phân loại mặt cắt siêu âm tim thai trong giai đoạn tam cá nguyệt thứ nhất
+Sinh viên thực hiện: Huỳnh Minh Quyền; Bạch Huỳnh Như Thuỷ
+Đơn vị: Trường Đại học Công nghệ TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-112

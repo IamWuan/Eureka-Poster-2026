@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-095
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: ML-ASSISTED SERVICE PLACEMENT AND RESOURCE ALLOCATION IN DISTRIBUTED 5G DATA CENTERS
+Sinh viên thực hiện: Lê Thành Tài; Đặng Trường Thịnh; Phan Thị Ánh Tuyền
+Đơn vị: Trường Cao đẳng Công nghệ Thông tin TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-095

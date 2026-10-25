@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-170
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: IntentOS-GNN: MÔ HÌNH ĐIỀU PHỐI TÀI NGUYÊN HỆ THỐNG DỰA TRÊN Ý ĐỊNH NGƯỜI DÙNG BẰNG ĐỒ THỊ ĐỘNG VÀ HỌC MÁY TRONG MÔI TRƯỜNG GIẢ LẬP
+Sinh viên thực hiện: Lương Anh Hào; Nguyễn Văn Thành
+Đơn vị: Trường Đại học Công nghệ Kỹ thuật TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-170

@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-144
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Phát triển mô hình thử nghiệm giám sát tập luyện phục hồi chức năng từ xa dựa trên Trí tuệ nhân tạo (AI) và Thị giác máy tính (Computer Vision) tại bệnh viện đa khoa Phạm Ngọc Thạch - Trường Đại học Y tế công cộng (2025-2026).
+Sinh viên thực hiện: Nguyễn Thị Thu Hương; Đinh Lê Quỳnh Phương; Kim Mạnh Hưng; Nguyễn Thị Thanh Nga; Nguyễn Thị Thơm
+Đơn vị: Trường Đại học Y tế Công cộng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-144

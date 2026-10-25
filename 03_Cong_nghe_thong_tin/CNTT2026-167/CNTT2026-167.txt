@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-167
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Self-Supervised CT Through-Plane Interpolation via Residual 3D Gaussian Splatting
+Sinh viên thực hiện: Nguyễn Nhật Phát; Phạm Quốc Hùng
+Đơn vị: Trường Đại học Công nghệ Kỹ thuật TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-167

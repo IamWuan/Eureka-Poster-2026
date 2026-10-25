@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-070
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Vision-Language Modeling for Vietnamese Multimodal Fake News Classification.
+Sinh viên thực hiện: Nguyễn Thành Đạt; Hoàng Hạnh Nguyên; Đỗ Bích Loan; Nguyễn Đào Bảo Ngọc
+Đơn vị: Trường Quốc tế, ĐHQG Hà Nội
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-070
