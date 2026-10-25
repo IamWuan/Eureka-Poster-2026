@@ -4,6 +4,8 @@
 
 ### Kho tư liệu đề tài & poster nghiên cứu khoa học
 
+**NOTE: Nội dung thuộc về giải thưởng Eureka. Repo chỉ mang tích chất lưu trữ và chia sẻ**
+
 **2.183 đề tài · 15 lĩnh vực**
 
 Tra cứu ý tưởng, khám phá nghiên cứu và xem poster theo từng lĩnh vực.
