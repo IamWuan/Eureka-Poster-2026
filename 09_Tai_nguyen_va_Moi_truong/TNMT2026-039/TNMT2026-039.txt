@@ -1,0 +1,6 @@
+Mã đề tài: TNMT2026-039
+Lĩnh vực: Tài nguyên và Môi trường
+Tên đề tài: Ứng dụng công nghệ viễn thám kết hợp thuật toán học máy nhằm ước tính nồng độ bụi mịn PM2.5. Thí điểm nghiên cứu tại thành phố Hà Nội giai đoạn 2015 – 2025.
+Sinh viên thực hiện: Nguyễn Đại Long; Lường Thị Kim Cúc; Hoàng Thị Thu Hà
+Đơn vị: Trường Đại học Sư phạm Hà Nội
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/TNMT2026-039

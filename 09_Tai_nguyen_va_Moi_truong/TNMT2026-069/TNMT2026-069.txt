@@ -1,0 +1,6 @@
+Mã đề tài: TNMT2026-069
+Lĩnh vực: Tài nguyên và Môi trường
+Tên đề tài: Ước tính nồng độ PM2.5 sử dụng dữ liệu ảnh vệ tinh Himawari-9 kết hợp các mô hình học máy: Trường hợp nghiên cứu tại Thành phố Hồ Chí Minh
+Sinh viên thực hiện: Trầm Đặng Minh Sơn
+Đơn vị: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/TNMT2026-069

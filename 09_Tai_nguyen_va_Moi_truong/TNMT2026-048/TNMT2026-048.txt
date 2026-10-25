@@ -1,0 +1,6 @@
+Mã đề tài: TNMT2026-048
+Lĩnh vực: Tài nguyên và Môi trường
+Tên đề tài: NGHIÊN CỨU VÀ PHÁT TRIỂN HỆ THỐNG ỨNG DỤNG IoT VÀ LSTM TRONG GIÁM SÁT, DỰ BÁO VÀ ĐIỀU KHIỂN MÔI TRƯỜNG TRONG NHÀ
+Sinh viên thực hiện: Đặng Tuấn Khoa; Vũ Hoàng Bảo; Thái Quốc Vinh; Nguyễn Phước Nam; Phạm Quốc Hưng
+Đơn vị: Trường Đại học Bách Khoa, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/TNMT2026-048

@@ -1,0 +1,6 @@
+Mã đề tài: TNMT2026-054
+Lĩnh vực: Tài nguyên và Môi trường
+Tên đề tài: Xây dựng hệ thống hỗ trợ quyết định không gian quản lý rác thải nhựa nông nghiệp gắn với sử dụng đất trên nền tảng nông nghiệp số: tích hợp PWI, GIS-AHP và Webgis tại Tây Ninh
+Sinh viên thực hiện: Nguyễn Hoài Nam; Nguyễn Thị Như Quỳnh; Trần Thị Anh Thư; Nguyễn Đào Yến Nhi; Lê Thị Hồng Vân
+Đơn vị: Trường Đại học Công nghiệp TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/TNMT2026-054
