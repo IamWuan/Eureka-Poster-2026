@@ -1,0 +1,6 @@
+Mã đề tài: QHKT2026-082
+Lĩnh vực: Quy hoạch, Kiến trúc và Xây dựng
+Tên đề tài: Ứng dụng phần mềm quản lý dự án MS Project trong việc lập và kiểm soát tiến độ thi công nhà cao tầng tại Việt Nam và đề xuất cách tự động tính toán các hệ số k1 và k2 khi lập tiến độ
+Sinh viên thực hiện: Vũ Đức Chuyên; Đinh Khánh Huyền; Hoàng Phương Thảo; Nguyễn Thị Như Quỳnh
+Đơn vị: Trường Đại học Kiến trúc Hà Nội
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/QHKT2026-082

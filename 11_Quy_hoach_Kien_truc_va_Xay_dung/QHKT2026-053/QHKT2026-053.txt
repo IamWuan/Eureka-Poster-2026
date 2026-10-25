@@ -1,0 +1,6 @@
+Mã đề tài: QHKT2026-053
+Lĩnh vực: Quy hoạch, Kiến trúc và Xây dựng
+Tên đề tài: PHÁT TRIỂN TOOLBOX PHÂN TÍCH TÍNH TOÁN DẦM MỘT NHỊP VỚI MATLAB GUI
+Sinh viên thực hiện: Nguyễn Duy; Võ Xuân Chiến; Trương Minh Thuận
+Đơn vị: Trường Đại học Tôn Đức Thắng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/QHKT2026-053
