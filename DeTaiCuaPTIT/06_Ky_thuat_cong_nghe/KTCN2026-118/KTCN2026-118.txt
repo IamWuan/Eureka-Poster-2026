@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-118
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Xây dựng nền tảng thực nghiệm phân phối khóa lượng tử dựa trên giao thức BB84
+Sinh viên thực hiện: Nguyễn Văn Dương; Nguyễn Bình Minh; Bùi Quốc Hùng
+Đơn vị: Học viện Công nghệ Bưu chính Viễn thông
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-118

@@ -1,0 +1,6 @@
+Mã đề tài: CNTT2026-059
+Lĩnh vực: Công nghệ thông tin
+Tên đề tài: Tối ưu khoảng cách phần tử OIRS bằng DRL cho hệ thống FSO trong mạng truyền thông phi mặt đất
+Sinh viên thực hiện: Trần Hữu Bảo Anh; Nguyễn Thạc Anh; Lê Hoàng Nam Khánh
+Đơn vị: Học viện Công nghệ Bưu chính Viễn thông
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/CNTT2026-059

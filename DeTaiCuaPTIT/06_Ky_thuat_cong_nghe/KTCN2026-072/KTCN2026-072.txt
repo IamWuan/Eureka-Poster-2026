@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-072
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu thiết kế bộ tăng tốc phần cứng sử dụng mô hình mạng nơ ron MOBILENETV2-ECA trong ứng dụng phân loại âm thanh tại biên thời gian thực trên FPGA SOC
+Sinh viên thực hiện: Vũ Tiến Quốc; Nguyễn Duyên Huy; Trần Nguyễn Nhật Tân; Phan Quang Hưng; Nguyễn Văn Quyến
+Đơn vị: Học viện Công nghệ Bưu chính Viễn thông
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-072
