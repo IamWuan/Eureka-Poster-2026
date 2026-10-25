@@ -1,0 +1,6 @@
+Mã đề tài: SH2026-083
+Lĩnh vực: Sinh học
+Tên đề tài: Nghiên cứu phân vùng và dự báo khu vực phân bố tiềm năng sâm Ngọc Linh bằng mô hình XGBOOST
+Sinh viên thực hiện: Nguyễn Thị Hồng Ngọc; Nguyễn Nhật Long
+Đơn vị: Trường Đại học Sư phạm, Đại học Đà Nẵng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/SH2026-083

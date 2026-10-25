@@ -1,0 +1,6 @@
+Mã đề tài: SH2026-016
+Lĩnh vực: Sinh học
+Tên đề tài: Khám phá các hợp chất thực vật tiềm năng chống béo phì từ cây ô rô nước (Acanthus ebracteatus) định hướng bằng học máy (Isolation Forest) kết hợp docking và mô phỏng động lực học phân tử
+Sinh viên thực hiện: Dương Phước Mai Quỳnh; Trần Tú Quyên
+Đơn vị: Trường Đại học Công nghiệp TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/SH2026-016

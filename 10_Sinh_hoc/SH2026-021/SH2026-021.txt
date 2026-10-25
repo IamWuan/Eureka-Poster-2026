@@ -1,0 +1,6 @@
+Mã đề tài: SH2026-021
+Lĩnh vực: Sinh học
+Tên đề tài: A machine learning method for intrinsically disordered region homology detection
+Sinh viên thực hiện: Lê Gia Cát
+Đơn vị: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/SH2026-021
