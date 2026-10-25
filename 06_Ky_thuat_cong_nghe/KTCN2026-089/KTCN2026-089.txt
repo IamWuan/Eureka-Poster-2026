@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-089
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: A Freshness-Aware Cold-Chain Vehicle Routing Problem with Carbon Emission Consideration: An Adaptive Large Neighborhood Search Approach
+Sinh viên thực hiện: Trần Minh Hạnh
+Đơn vị: Trường Đại học Quốc Tế, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-089

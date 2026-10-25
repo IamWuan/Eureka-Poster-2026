@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-024
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Xây dựng mô hình dây chuyền phân loại dược phẩm thông minh ứng dụng PLC, IoT và xử lý ảnh
+Sinh viên thực hiện: Nguyễn Tuấn Thạnh; Ngô Ngọc Thiên; Nguyễn Văn An; Cao Chí Tài; Nguyễn Tấn Phát
+Đơn vị: Phân hiệu Trường Đại học Giao thông vận tải tại TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-024

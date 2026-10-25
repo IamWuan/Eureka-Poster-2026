@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-002
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Thiết kế, chế tạo cánh tay robot dạng người tương tác điều khiển bằng thị giác máy tính hoặc nhận diện giọng nói
+Sinh viên thực hiện: Trần Hoàng Long; Vũ Đức Thành; Nguyễn Đình Hưng; Văn Hồng Ngọc; Tô Thế Đạt
+Đơn vị: Đại học Phenikaa
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-002

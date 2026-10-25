@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-021
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu và phát triển hệ thống robot 6 bậc tự do cho bài toán pick and place dựa trên ước lượng tư thế 6D bằng học sâu và thị giác lập thể
+Sinh viên thực hiện: Nguyễn Mai Nhựt Huy; Trần Xuân Huy; Phạm Gia Khiêm; Trần Lê Trung Hiếu
+Đơn vị: Trường Đại học Công nghệ TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-021

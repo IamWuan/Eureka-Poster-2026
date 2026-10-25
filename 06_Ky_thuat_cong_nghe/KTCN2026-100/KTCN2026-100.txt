@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-100
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Sử dụng Google Assistant và NodeMCU ESP32 – S để điều khiển các thiết bị thông dụng trong nhà
+Sinh viên thực hiện: Quách Hương Giang; Nguyễn Minh Khôi; Huỳnh Phước Vinh; Nguyễn Như Ý; Lê Thị Mỷ Kiều
+Đơn vị: Trường Đại học Bạc Liêu
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-100

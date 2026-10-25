@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-113
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Tối ưu hóa Macro Placement trong OpenROAD bằng Deep Reinforcement Learning
+Sinh viên thực hiện: Huỳnh Mỹ Ngọc
+Đơn vị: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-113

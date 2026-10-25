@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-122
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Thiết kế và tối ưu hóa bộ điều khiển LQR thích nghi với bộ bù suy giảm tuổi thọ pin cho hệ truyền động xe điện cỡ nhỏ (MICRO-EV)
+Sinh viên thực hiện: Lê Đức Hùng; Nguyễn Hải Yến; Vũ Hữu Trí; Vũ Bình Dương; Phạm Đồng Khánh
+Đơn vị: Trường Quốc tế, ĐHQG Hà Nội
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-122

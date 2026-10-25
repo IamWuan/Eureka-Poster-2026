@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-110
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Khảo sát và xây dựng quy trình huấn luyện mô hình nhận dạng độ nhàu vải nhị phân bằng Teachable Machine
+Sinh viên thực hiện: Nguyễn Thị Thu Lài
+Đơn vị: Trường Đại học Công Thương TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-110

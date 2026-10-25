@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-052
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Development of Sensor Probes and Deep-Learning Applications for Corrosion Detection and Quantification Using Pulsed Eddy Current Sensing Systems
+Sinh viên thực hiện: Ngô Tùng Dương; Nguyễn Bá Long; Triệu Trung Hiếu; Lê Lan Chi
+Đơn vị: Đại học Phenikaa
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-052

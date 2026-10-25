@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-125
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu thiết kế và chế tạo hộp điều khiển điện tử cho hệ thống lái Steer-by-Wire
+Sinh viên thực hiện: Phan Phạm Tiến; Phạm Tuấn Đạt; Lê Phước Nhật; Trần Văn Phước; Phạm Đỗ Long Nhật
+Đơn vị: Trường Đại học Công nghệ TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-125

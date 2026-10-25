@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-051
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Ứng dụng thiết bị đeo thông minh phục vụ giám sát và cảnh báo tình trạng lính cứu hỏa trong môi trường nguy hiểm theo thời gian thực.
+Sinh viên thực hiện: Bùi Việt Hoàn; Bàn Thị Duyên; Nguyễn Hà Khánh; Nguyễn Hậu Trọng; Đinh Ngọc Anh
+Đơn vị: Đại học Phenikaa
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-051

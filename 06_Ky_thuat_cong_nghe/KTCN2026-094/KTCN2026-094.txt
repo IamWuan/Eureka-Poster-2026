@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-094
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu, phát triển hệ thống hỗ trợ học tập và biên dịch ngôn ngữ ký hiệu Việt Nam theo thời gian thực
+Sinh viên thực hiện: Phạm Huỳnh Quang; Hoàng Phan Thái An; Cao Dương Duy Khoa; Nguyễn Đăng Khôi
+Đơn vị: Trường Đại học Tôn Đức Thắng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-094

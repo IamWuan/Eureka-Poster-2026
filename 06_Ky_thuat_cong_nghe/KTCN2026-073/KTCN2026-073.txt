@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-073
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Thiết kế bộ tăng tốc Crypto-IDS đa tầng trên FPGA giải mã có xác thực AES-256-CCM theo luồng và lõi điều phối phát hiện xâm nhập thích nghi chống đa hình thức tấn công cho hệ thống AIoT
+Sinh viên thực hiện: Vũ Tiến Quốc; Phan Quang Hưng; Nguyễn Văn Quyến; Đặng Thanh Sơn; Lê Tùng Dương
+Đơn vị: Học viện Công nghệ Bưu chính Viễn thông
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-073

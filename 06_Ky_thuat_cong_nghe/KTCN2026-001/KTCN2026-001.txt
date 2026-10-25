@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-001
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu và phát triển mô hình robot di động bám quỹ đạo sử dụng thị giác máy tính để giám sát lộ trình
+Sinh viên thực hiện: Cao Thành Luân; Huỳnh Quốc Huy; Nguyễn Hữu Khang
+Đơn vị: Trường Đại học Tôn Đức Thắng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-001

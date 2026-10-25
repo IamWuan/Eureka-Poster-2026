@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-132
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Thiết kế và thi công hệ thống Drive-by-Wire tích hợp điều khiển an toàn và ADAS cho xe điện mô hình
+Sinh viên thực hiện: Lê Phú Quý; Nguyễn Văn Tuấn Phát; Nguyễn Trương Quân; Trịnh Việt Lào; Đinh Văn Hiếu
+Đơn vị: Đại học Duy Tân
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-132

@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-068
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Thiết kế kiến trúc ánh xạ hai chế độ có nhận biết tái sử dụng cho bộ tăng tốc Folded-SIMD trên các mạng tín hiệu sinh học 1D không đồng nhất.
+Sinh viên thực hiện: Phạm Quốc Thịnh
+Đơn vị: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-068

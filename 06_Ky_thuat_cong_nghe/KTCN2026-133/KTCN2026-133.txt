@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-133
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Mô phỏng môi trường và huấn luyện thuật toán học tăng cường sâu SAC kết hợp với bộ lọc mờ fuzzy safety trong thu hồi phanh tái sinh trên ô tô điện
+Sinh viên thực hiện: LÝ CHÍ VINH; LƯƠNG THÀNH DANH
+Đơn vị: Trường Đại học Giao thông vận tải TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-133

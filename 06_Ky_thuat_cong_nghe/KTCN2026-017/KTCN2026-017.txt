@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-017
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu và phát triển thuật toán điều khiển đàn UAV Quadrotor không phụ thuộc GPS ứng dụng trong quản lý và giám sát nhà kho tự động
+Sinh viên thực hiện: Trần Thanh Duy; Phạm Hồng Đăng Khải; Trịnh Trường Đạt; Ngô Viết Lãm; Trần Long Tấn
+Đơn vị: Trường Đại học Công nghệ TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-017

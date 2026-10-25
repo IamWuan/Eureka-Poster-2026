@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-126
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu thiết kế chương trình điều khiển sử dụng bộ điều khiển MPC-LTI cho ô tô tự lái
+Sinh viên thực hiện: Mai Thế Hiển; Lưu Văn Hiểu
+Đơn vị: Phân hiệu Trường Đại học Giao thông vận tải tại TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-126

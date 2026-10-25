@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-040
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu và phát triển phương pháp tự động chỉnh định hệ số gamma cho quá trình thu nhận ảnh cho robot di động sử dụng trí tuệ nhân tạo
+Sinh viên thực hiện: Nguyễn Minh Gia Bảo; Võ Đang Huy
+Đơn vị: Trường Đại học Kỹ thuật Công nghệ Cần Thơ
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-040

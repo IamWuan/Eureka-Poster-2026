@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-101
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Quasi-Optimal Decentralised Control for Interconnected Grids with Thyristor Controlled Phase Shifters
+Sinh viên thực hiện: Đặng Tuấn Phong; Đỗ Doãn Toàn Vinh; Đinh Hoàng Phương; Nguyễn Quốc Bảo
+Đơn vị: Trường Quốc tế, ĐHQG Hà Nội
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-101

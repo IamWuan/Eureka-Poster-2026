@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-049
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Thiết kế hệ thống phát hiện và cảnh báo ngủ gật khi lái xe
+Sinh viên thực hiện: Trịnh Đăng Hà; Nguyễn Duy Khánh; Khổng Minh Duy
+Đơn vị: Trường Đại học Mở Hà Nội
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-049

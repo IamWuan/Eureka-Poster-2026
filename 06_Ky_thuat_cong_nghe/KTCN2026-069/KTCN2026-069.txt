@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-069
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Ứng dụng phương pháp Entropy Weighting và Simple Additive Weighting phục vụ xếp hạng phụ tải trong lưới điện Microgrid
+Sinh viên thực hiện: Nguyễn Thành Khoa
+Đơn vị: Trường Đại học Công nghệ Kỹ thuật TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-069

@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-117
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu mô phòng dòng xe bằng mô hình tế bào Nagel - Schrenkenberg kết hợp thuật toán Dijkstra động nhằm tối ưu hóa phân luồng tại nút giao Hàng Xanh, TPHCM
+Sinh viên thực hiện: Đỗ Bùi Trọng Khôi; Lê Song Toàn
+Đơn vị: Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-117

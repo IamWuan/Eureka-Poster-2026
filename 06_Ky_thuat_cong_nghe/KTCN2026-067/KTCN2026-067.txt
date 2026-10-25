@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-067
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Hệ thống trí tuệ nhân tạo trên FPGA xử lý dữ liệu y sinh thời gian thực
+Sinh viên thực hiện: Vũ Hiếu Nghĩa; Võ Nguyễn Cường
+Đơn vị: Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn, Đại học Đà Nẵng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-067

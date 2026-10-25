@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-032
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: NGHIÊN CỨU, XÂY DỰNG HỆ THỐNG SCADA CHẨN ĐOÁN SỚM SỰ CỐ MÁY CHÍNH TÀU THỦY DỰA TRÊN MÔ HÌNH BẢN SAO SỐ KẾT HỢP TRÍ TUỆ NHÂN TẠO VÀ ĐIỆN TOÁN BIÊN
+Sinh viên thực hiện: MẠC TRUNG PHÚC; NGUYỄN TRỌNG HOÀNG BÌNH; NGUYỄN HOÀNG NAM; NGUYỄN DUY ANH
+Đơn vị: Trường Đại học Hàng hải Việt Nam
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-032

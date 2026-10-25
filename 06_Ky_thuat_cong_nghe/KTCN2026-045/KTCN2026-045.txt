@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-045
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: DESIGN OF A DUAL ADAPTIVE FRACTIONAL ORDER SUPER TWISTING SLIDING MODE CONTROLLER (DA-FOSTSMC) FOR A 2-DOF ACTUATOR USING FOR PHYSICAL PHYSIOTHERAPY
+Sinh viên thực hiện: Nguyễn Phước Nam; Vũ Hoàng Bảo; Thái Quốc Vinh; Đặng Tuấn Khoa; Diệp Tường Bảo Ngọc
+Đơn vị: Trường Đại học Bách Khoa, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-045

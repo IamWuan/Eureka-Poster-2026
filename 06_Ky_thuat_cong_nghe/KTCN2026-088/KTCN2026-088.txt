@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-088
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Lookahead-Aware Hierarchical Reinforcement Learning for Solving FSMVRP
+Sinh viên thực hiện: Ngô Gia Phong; Nguyễn Thành Đạt; Nguyễn Tuấn Khôi
+Đơn vị: Trường Đại học Quốc Tế, ĐHQG-HCM
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-088

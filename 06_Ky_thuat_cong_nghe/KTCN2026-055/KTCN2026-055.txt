@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-055
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu thiết kế và chế tạo Drone sử dụng ESP32 và MPU6050
+Sinh viên thực hiện: Nguyễn Hà Nam Khánh; Hoàng Phạm Trung Thái; Trần Anh Quân
+Đơn vị: Trường Đại học CMC
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-055

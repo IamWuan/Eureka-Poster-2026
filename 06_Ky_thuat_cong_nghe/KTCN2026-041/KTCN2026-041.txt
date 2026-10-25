@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-041
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu phương pháp Hybrid AI kết hợp GenAI và AI truyền thống cho điều khiển thích nghi robot di động trong các điều kiện ánh sáng khác nhau
+Sinh viên thực hiện: Đào Quang Thái; Lý Khánh Toàn; Phạm Thái Minh Đăng; Vũ Lê Duy
+Đơn vị: Trường Đại học Kỹ thuật Công nghệ Cần Thơ
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-041

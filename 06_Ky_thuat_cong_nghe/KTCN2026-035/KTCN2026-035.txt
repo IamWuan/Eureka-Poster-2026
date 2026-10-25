@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-035
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu, thiết kế và chế tạo hệ thống định vị thời gian thực sử dụng công nghệ Ultra-Wideband (UWB) cho robot tự hành
+Sinh viên thực hiện: Mai Thanh Phương; Đinh Đồng Sơn
+Đơn vị: Trường Đại học Công nghệ Kỹ thuật TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-035

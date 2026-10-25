@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-057
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Thiết kế vi mạch mã hóa và giải mã AES-128 trên FPGA
+Sinh viên thực hiện: Vũ Như Mạnh; Dương Quốc An
+Đơn vị: Trường Đại học Công nghệ TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-057

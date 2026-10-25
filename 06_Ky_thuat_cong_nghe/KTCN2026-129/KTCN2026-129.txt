@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-129
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: THIẾT KẾ VÀ XÂY DỰNG MÔ HÌNH HỆ THỐNG GIÁM SÁT VÀ CẢNH BÁO PIN TRÊN NỀN TẢNG HỆ THỐNG NHÚNG SỬ DỤNG CAN BUS
+Sinh viên thực hiện: Phạm Minh Đức; Lê Thành Phát
+Đơn vị: Trường Đại học Công nghệ Kỹ thuật TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-129

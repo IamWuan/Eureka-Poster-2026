@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-087
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu thiết kế hệ thống giám sát, định vị trong việc phân tích hành vi và nguy cơ tai nạn trong tàu thủy trên nền tảng công nghệ IoT và AI
+Sinh viên thực hiện: NGUYỄN ĐÌNH ANH TUẤN; PHẠM QUẾ ANH; NGUYỄN TRẦN KIỀU KHANH
+Đơn vị: Trường Đại học Giao thông vận tải TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-087

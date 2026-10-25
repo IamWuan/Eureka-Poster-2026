@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-037
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Nghiên cứu, chế tạo robot tự hành thông minh sử dụng Lidar và Slam ứng dụng trong công nghiệp 4.0 và dịch vụ Logistic
+Sinh viên thực hiện: Phan Thế Mạnh; Lã Văn Đô; Phạm Đức Minh
+Đơn vị: Trường Đại học Hải Phòng
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-037

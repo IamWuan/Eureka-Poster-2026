@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-012
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Thiết kế và phát triển hệ thống Drone kết hợp học sâu phục vụ khảo sát và phát hiện rác thải trái phép.
+Sinh viên thực hiện: Nguyễn Hoài Vũ; Bùi Tiến Minh; Nguyễn Đức Quyền; Dương Tiến Toàn
+Đơn vị: Trường Đại học Công nghiệp TP. Hồ Chí Minh
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-012

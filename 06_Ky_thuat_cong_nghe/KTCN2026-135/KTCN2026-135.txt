@@ -1,0 +1,6 @@
+Mã đề tài: KTCN2026-135
+Lĩnh vực: Kỹ thuật công nghệ
+Tên đề tài: Phát triển hệ thống ADAS dựa trên công nghệ biên: Kết hợp cảm biến thị giác và IMU để phát hiện tình trạng buồn ngủ và lái xe thiếu an toàn.
+Sinh viên thực hiện: Phan Nguyễn Đăng Khoa; Lê Nguyên Đạt; Võ Minh Đăng
+Đơn vị: Trường Đại học Việt Đức
+Link bình chọn: https://binhchon.khoahoctre.com.vn/c/eureka-2026/KTCN2026-135
